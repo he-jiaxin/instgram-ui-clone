@@ -1,0 +1,43 @@
+<CircularAvatarImage>
+
+    size_hint: None, None
+    size: 90, 0
+    elevation: 0
+
+    MDRelativeLayout:
+        size_hint: None, None
+        size: 300, 100
+
+        Circle:
+            radius: [80,]
+            size:80, 80
+            md_bg_color:1,0,0,1
+
+        Circle:
+            radius: [80,]
+            size:75, 75
+            md_bg_color:1,1,1,1
+
+        # profile picture
+        FitImage:
+            source: root.avatar
+            size_hint: None, None
+            size: 73, 73
+            radius:[73]
+            pos_hint: {"center_x":0.5, "center_y":0.6}
+
+        # Username
+        MDLabel:
+            text: root.name
+            halign: "center"
+            pos_hint: {"center_x": 0.5,"center_y":0.05}
+            font_size: 12
+            theme_text_color: "Custom"
+            text_color: 0, 0, 0, 1
+
+
+
+<Circle@MDCard>
+    size_hint:None, None
+    elevation: 0
+    pos_hint: {"center_x":0.5, "center_y":0.6}

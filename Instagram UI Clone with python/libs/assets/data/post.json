@@ -1,0 +1,74 @@
+{
+    "cameronmorris123": {
+      "avatar": "/Users/jiaxinhe/Library/Mobile Documents/iCloud~com~omz-software~Pythonista3/Documents/PD Projects/Instagram UI Clone with python/libs/assets/data/posts/Screenshot 2023-11-09 at 16.30.47.png",
+      "post": "/Users/jiaxinhe/Library/Mobile Documents/iCloud~com~omz-software~Pythonista3/Documents/PD Projects/Instagram UI Clone with python/libs/assets/data/posts/Screenshot 2023-11-09 at 16.29.14.png",
+      "caption": "naples",
+      "likes": "100",
+      "comments": "5",
+      "posted_ago": "5 hours"
+    },
+    "ryanmccraken": {
+      "avatar": "/Users/jiaxinhe/Library/Mobile Documents/iCloud~com~omz-software~Pythonista3/Documents/PD Projects/Instagram UI Clone with python/libs/assets/data/posts/Screenshot 2023-11-09 at 16.31.05.png",
+      "post": "/Users/jiaxinhe/Library/Mobile Documents/iCloud~com~omz-software~Pythonista3/Documents/PD Projects/Instagram UI Clone with python/libs/assets/data/posts/Screenshot 2023-11-09 at 16.28.59.png",
+      "caption": "naples",
+      "likes": "200",
+      "comments": "50",
+      "posted_ago": "12 hours"
+    },
+    "ribalondon": {
+      "avatar": "/Users/jiaxinhe/Library/Mobile Documents/iCloud~com~omz-software~Pythonista3/Documents/PD Projects/Instagram UI Clone with python/libs/assets/data/posts/54f6114ce58ece08b40000be_riba-future-trends-survey-reveals-a-mixed-picture-_crest_jpg_large-jpg.jpg",
+      "post": "/Users/jiaxinhe/Library/Mobile Documents/iCloud~com~omz-software~Pythonista3/Documents/PD Projects/Instagram UI Clone with python/libs/assets/data/posts/Screenshot 2023-11-09 at 16.29.58.png",
+      "caption": "Architecture student work",
+      "likes": "300",
+      "comments": "100",
+      "posted_ago": "22 hours"
+    },
+    "artstation_art": {
+      "avatar": "/Users/jiaxinhe/Library/Mobile Documents/iCloud~com~omz-software~Pythonista3/Documents/PD Projects/Instagram UI Clone with python/libs/assets/data/posts/photo-1529665253569-6d01c0eaf7b6.jpeg",
+      "post": "/Users/jiaxinhe/Library/Mobile Documents/iCloud~com~omz-software~Pythonista3/Documents/PD Projects/Instagram UI Clone with python/libs/assets/data/posts/photo-1586348943529-beaae6c28db9.jpeg",
+      "caption": "Beautiful Image",
+      "likes": "3100",
+      "comments": "1008",
+      "posted_ago": "22 hours"
+    },
+    "sonny_coder": {
+      "avatar": "/Users/jiaxinhe/Library/Mobile Documents/iCloud~com~omz-software~Pythonista3/Documents/PD Projects/Instagram UI Clone with python/libs/assets/data/posts/photo-1579783483458-83d02161294e.jpeg",
+      "post": "/Users/jiaxinhe/Library/Mobile Documents/iCloud~com~omz-software~Pythonista3/Documents/PD Projects/Instagram UI Clone with python/libs/assets/data/posts/photo-1441974231531-c6227db76b6e.jpeg",
+      "caption": "Forests",
+      "likes": "6324",
+      "comments": "47",
+      "posted_ago": "2 days"
+    },
+    "devianprogrammer": {
+      "avatar": "/Users/jiaxinhe/Library/Mobile Documents/iCloud~com~omz-software~Pythonista3/Documents/PD Projects/Instagram UI Clone with python/libs/assets/data/posts/photo-1441974231531-c6227db76b6e.jpeg",
+      "post": "/Users/jiaxinhe/Library/Mobile Documents/iCloud~com~omz-software~Pythonista3/Documents/PD Projects/Instagram UI Clone with python/libs/assets/data/posts/photo-1433086966358-54859d0ed716.jpeg",
+      "caption": "Water",
+      "likes": "2053",
+      "comments": "13",
+      "posted_ago": "20 hours"
+    },
+    "kivymd": {
+      "avatar": "/Users/jiaxinhe/Library/Mobile Documents/iCloud~com~omz-software~Pythonista3/Documents/PD Projects/Instagram UI Clone with python/libs/assets/data/posts/photo-1438761681033-6461ffad8d80.jpeg",
+      "post": "/Users/jiaxinhe/Library/Mobile Documents/iCloud~com~omz-software~Pythonista3/Documents/PD Projects/Instagram UI Clone with python/libs/assets/data/posts/Screenshot 2023-11-08 at 20.19.39.png",
+      "caption": "Mountains",
+      "likes": "121",
+      "comments": "45",
+      "posted_ago": "46 mins"
+    },
+    "abc": {
+      "avatar": "/Users/jiaxinhe/Library/Mobile Documents/iCloud~com~omz-software~Pythonista3/Documents/PD Projects/Instagram UI Clone with python/libs/assets/data/posts/photo-1547425260-76bcadfb4f2c.jpeg",
+      "post": "/Users/jiaxinhe/Library/Mobile Documents/iCloud~com~omz-software~Pythonista3/Documents/PD Projects/Instagram UI Clone with python/libs/assets/data/posts/Screenshot 2023-11-08 at 20.19.39.png",
+      "caption": "Ocean",
+      "likes": "58",
+      "comments": "4",
+      "posted_ago": "2 hours"
+    },
+    "insta": {
+      "avatar": "/Users/jiaxinhe/Library/Mobile Documents/iCloud~com~omz-software~Pythonista3/Documents/PD Projects/Instagram UI Clone with python/libs/assets/data/posts/photo-1554151228-14d9def656e4.jpeg",
+      "post": "/Users/jiaxinhe/Library/Mobile Documents/iCloud~com~omz-software~Pythonista3/Documents/PD Projects/Instagram UI Clone with python/libs/assets/data/posts/HgZuGu3gSD6db21T3lxm_San Zenone.jpg",
+      "caption": "Fields",
+      "likes": "10",
+      "comments": "1",
+      "posted_ago": "3 hours"
+    }
+  }
