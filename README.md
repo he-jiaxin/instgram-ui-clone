@@ -13,3 +13,10 @@ This Instagram Clone is a Python-based application that replicates the core feat
 ## Troubleshooting
 
 Make sure to replace `[repository-url]` with the actual URL of your GitHub repository and update other placeholders like your contact information. This template provides a comprehensive guide for users and potential contributors to your Instagram Clone project.
+
+
+## Code Snippets
+
+<img width="278" alt="Screenshot 2023-11-13 at 23 12 07" src="https://github.com/he-jiaxin/instgram-ui-clone/assets/132515037/80c6b6f4-4cce-49b4-8740-19933cb76819">
+<img width="294" alt="Screenshot 2023-11-13 at 23 12 26" src="https://github.com/he-jiaxin/instgram-ui-clone/assets/132515037/c6bd7139-6439-4ec7-a3c9-20738449e7cc">
+
